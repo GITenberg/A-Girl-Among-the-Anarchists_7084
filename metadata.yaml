@@ -1,0 +1,23 @@
+_repo: A-Girl-Among-the-Anarchists_7084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meredith, Isabel
+    gutenberg_agent_id: '2336'
+    url: http://www.gutenberg.org/2009/agents/2336
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Anarchists -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: A Girl Among the Anarchists
+url: http://www.gutenberg.org/ebooks/7084
